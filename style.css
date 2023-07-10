@@ -1,0 +1,77 @@
+body {
+  color: black;
+}
+body a {
+  text-decoration: none;
+  color: inherit;
+}
+body p {
+  text-align: right;
+  margin-right: 35%;
+  color: #4285F4;
+}
+
+#main {
+  margin: auto;
+  width: 80%;
+  padding-top: 3px;
+}
+#main #search {
+  border: 0.5px thin black;
+  border-radius: 20px;
+  padding: 1.2%;
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main #submit {
+  border: none;
+  border-radius: 10px;
+  background-color: #4285F4;
+  width: 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;
+  color: white;
+}
+#main #submit:hover {
+  background-color: red;
+}
+#main img {
+  width: 30%;
+  height: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  border: none;
+  float: right;
+  padding-left: 1%;
+  background-color: white;
+}
+
+#header:hover {
+  text-decoration: underline;
+}
+
+#buttom {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+#buttom button {
+  border: none;
+  background-color: whitesmoke;
+  padding: 8px;
+}
+#buttom button:hover {
+  border: 1cap;
+  background-color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
