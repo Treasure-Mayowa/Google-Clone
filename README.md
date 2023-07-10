@@ -6,7 +6,7 @@ This project simply clones the aesthetics and function of Google's suite of Web 
 - `HTML5`
 - `CSS5`
 - `SASS`
-- `Bootsrap`
+- `Bootstrap`
 
 
 #### `index.html`: This contains the html code for the clone of the main Google Search
