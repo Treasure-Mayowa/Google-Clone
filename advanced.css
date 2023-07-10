@@ -1,0 +1,37 @@
+#header {
+  border: none;
+  float: right;
+  padding-left: 1%;
+  background-color: white;
+}
+
+#logo {
+  float: left;
+  margin-left: 2%;
+  width: 15%;
+  border: none;
+  padding-right: 1%;
+  padding-bottom: 15%;
+}
+
+#main {
+  float: left;
+  margin: auto;
+  width: 80%;
+}
+#main input {
+  display: block;
+  width: 70%;
+  padding: 1.2%;
+}
+#main #submit {
+  width: auto;
+  color: white;
+  background-color: #4285F4;
+  border: none;
+  border-radius: 2%;
+  float: right;
+  margin-right: 25%;
+}
+
+/*# sourceMappingURL=advanced.css.map */
